@@ -1,2 +1,2 @@
 # time-series-validation
-Técnicas de validação de previsões em séries temporais.
+Técnicas de validação das previsões em séries temporais.
